@@ -20,3 +20,8 @@ bundle install
 ```
 bundle exec ruby main.rb
 ```
+
+### P.s
+
+This is simple console app that parse films from website and gives it to user.
+I created this app during first month of learning ruby on the [good programmer course](https://goodprogrammer.ru/rails)
