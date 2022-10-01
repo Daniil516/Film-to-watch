@@ -1,5 +1,5 @@
 # Film-to-watch
-## ENG
+
 Do you want to watch a movie, but you don't know which one? You're in the right place! With this app you can easily pick one
 
 ### Mechanics
@@ -30,7 +30,10 @@ I created this app during first month of learning ruby on the [good programmer c
 - Parsing Websites
 - Better understanding of OOP
 
-## РУС.,
+## RUS
+
+## Фильм на вечер
+
 Вы хотите посмотреть фильм, но не знаете, какой именно? Вы находитесь в нужном месте! С помощью этого приложения вы можете легко выбрать кинокартину
 
 ### Механика
