@@ -22,6 +22,44 @@ bundle exec ruby main.rb
 ```
 
 ### P.s
-
-This is simple console app that parse films from website and gives it to user.
+This is simple console app that parse films from website and gives them to user.
 I created this app during first month of learning ruby on the [good programmer course](https://goodprogrammer.ru/rails)
+
+#### What have I learned during developing this app?
+- Working with HTTP
+- Parsing Websites
+- Better understanding of OOP
+
+## РУС.,
+Вы хотите посмотреть фильм, но не знаете, какой именно? Вы находитесь в нужном месте! С помощью этого приложения вы можете легко выбрать кинокартину
+
+### Механика
+Вы запускаете приложение и выбираете директора, чей фильм вы хотите посмотреть.
+
+### Чтобы начать выбирать фильм
+
+- Вы должны иметь на используемом устройстве установленный ruby(версия 2.6 и выше. Гайд по установке - https://rubyrush.ru/steps/setup-ruby).
+1) Скачайте все файлы в одну папку
+2) Откройте командную строку
+3) Откройте скаченную директорию в командной строке
+4) Установите все гемы(библиотеки) используемые приложением, введя эти комманды
+```
+gem install bundler
+bundle install
+```
+5. Запустите прилложение, введя это(находясь в директории приложения через командную строку)
+```
+bundle exec ruby main.rb
+```
+
+### P.s
+Это простое консольное приложение, которое парсит фильмы с сайта и выдает их пользователю.
+Я создал это приложение во время первого месяца изучения языка ruby на курсе [хорошего программиста](https://goodprogrammer.ru/rails)
+
+#### Чему я научился во время разработки? 
+- Работать с сетью
+- Парсить сайты с помощью nokogiri
+- Чуть лучше усвоил ООП
+
+
+
