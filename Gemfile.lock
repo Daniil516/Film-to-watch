@@ -1,0 +1,38 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    date (3.2.2)
+    io-wait (0.1.0)
+    net-http (0.1.1)
+      net-protocol
+      uri
+    net-protocol (0.1.0)
+      io-wait
+      timeout
+    nokogiri (1.13.8-x86_64-linux)
+      racc (~> 1.4)
+    open-uri (0.2.0)
+      stringio
+      time
+      uri
+    racc (1.6.0)
+    stringio (3.0.2)
+    time (0.2.0)
+      date
+    timeout (0.1.1)
+    uri (0.10.1)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  net-http (~> 0.1.1)
+  nokogiri (~> 1.13.8)
+  open-uri (~> 0.2.0)
+  uri (~> 0.10.1)
+
+RUBY VERSION
+   ruby 3.0.2p107
+
+BUNDLED WITH
+   2.2.22
