@@ -7,7 +7,7 @@ You launch the app and choose the director whose movie you want to watch
 
 ### To start
 
--You should have installed ruby(version >=2.6) on your pc(how to do this - https://www.ruby-lang.org/en/documentation/installation/)
+- You should have installed ruby(version >=2.6) on your pc(how to do this - https://www.ruby-lang.org/en/documentation/installation/)
 1. Download all files to single folder
 2. Open CMD
 3. Open program directory in CMD
