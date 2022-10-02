@@ -4,6 +4,10 @@ Do you want to watch a movie, but you don't know which one? You're in the right 
 
 ### Mechanics
 You launch the app and choose the director whose movie you want to watch
+![Снимок экрана от 2022-10-02 16-32-28](https://user-images.githubusercontent.com/83035520/193456800-323b2add-6d46-4fdc-8ef2-190c38d1a2a0.png)
+
+![изображение](https://user-images.githubusercontent.com/83035520/193456792-260e0e44-e777-4e81-98d4-80a42f3c9802.png)
+
 
 ### To start
 
@@ -38,6 +42,9 @@ I created this app during first month of learning ruby on the [good programmer c
 
 ### Механика
 Вы запускаете приложение и выбираете директора, чей фильм вы хотите посмотреть.
+![Снимок экрана от 2022-10-02 16-32-28](https://user-images.githubusercontent.com/83035520/193456800-323b2add-6d46-4fdc-8ef2-190c38d1a2a0.png)
+
+![изображение](https://user-images.githubusercontent.com/83035520/193456792-260e0e44-e777-4e81-98d4-80a42f3c9802.png)
 
 ### Чтобы начать выбирать фильм
 
