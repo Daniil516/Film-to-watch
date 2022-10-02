@@ -19,4 +19,4 @@ user_director = film_collection.all_directors[user_number - 1]
 recommended_film = film_collection.to_recomend(user_director)
 
 puts "I recommend watching it tonight:"
-puts "#{recommended_film.director} - #{recommended_film.film_name} (#{recommended_film.year})"
+puts recommended_film
